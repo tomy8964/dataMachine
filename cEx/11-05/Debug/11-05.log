@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\함건욱\Source\Repos\11-05\소스.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\함건욱\Source\Repos\11-05\소스.cpp(19,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\11-05\소스.cpp(28,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  11-05.vcxproj -> C:\Users\함건욱\Source\Repos\11-05\Debug\11-05.exe

@@ -1,0 +1,2 @@
+C:\Users\함건욱\Source\Repos\Distinct Subsequences\Debug\Distinct Subsequences.exe
+C:\Users\함건욱\Source\Repos\Distinct Subsequences\Debug\Distinct Subsequences.pdb

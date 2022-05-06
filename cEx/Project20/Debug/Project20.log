@@ -1,0 +1,4 @@
+﻿  TSP.cpp
+C:\Users\함건욱\Source\Repos\Project20\TSP.cpp(36,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\Project20\TSP.cpp(41,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project20.vcxproj -> C:\Users\함건욱\Source\Repos\Project20\Debug\Project20.exe

@@ -1,0 +1,5 @@
+﻿  ex1.cpp
+C:\Users\함건욱\Source\Repos\HW5\ex1.cpp(10,9): error C2374: 'cursor': 재정의. 여러 번 초기화했습니다.
+C:\Users\함건욱\Source\Repos\HW5\ex1.cpp(9): message : 'cursor' 선언을 참조하십시오.
+C:\Users\함건욱\Source\Repos\HW5\ex1.cpp(11,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\함건욱\Source\Repos\HW5\ex1.cpp(16,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.

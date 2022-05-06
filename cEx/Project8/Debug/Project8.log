@@ -1,0 +1,10 @@
+﻿  소스.c
+C:\Users\함건욱\Source\Repos\Project8\소스.c(18,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'int'입니다.
+C:\Users\함건욱\Source\Repos\Project8\소스.c(41,35): warning C4047: '=': 'char'의 간접 참조 수준이 'char [18]'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Project8\소스.c(46,30): warning C4047: '=': 'char'의 간접 참조 수준이 'char [13]'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Project8\소스.c(51,32): warning C4047: '=': 'char'의 간접 참조 수준이 'char [15]'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Project8\소스.c(56,31): warning C4047: '=': 'char'의 간접 참조 수준이 'char [14]'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Project8\소스.c(61,31): warning C4047: '=': 'char'의 간접 참조 수준이 'char [14]'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Project8\소스.c(66,32): warning C4047: '=': 'char'의 간접 참조 수준이 'char [15]'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Project8\소스.c(71,27): warning C4047: '=': 'char'의 간접 참조 수준이 'char [10]'과(와) 다릅니다.
+  Project8.vcxproj -> C:\Users\함건욱\Source\Repos\Project8\Debug\Project8.exe

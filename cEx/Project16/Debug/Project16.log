@@ -1,0 +1,16 @@
+﻿  5.c
+C:\Users\함건욱\Source\Repos\Project16\5.c(42,6): warning C4101: 'age_array' :참조되지 않은 지역 변수입니다.
+  6-1.c
+  코드를 생성하고 있습니다...
+6-1.obj : error LNK2005: _ageOrder이(가) 5.obj에 이미 정의되어 있습니다.
+6-1.obj : error LNK2005: _array_open이(가) 5.obj에 이미 정의되어 있습니다.
+6-1.obj : error LNK2005: _linked_open이(가) 5.obj에 이미 정의되어 있습니다.
+6-1.obj : error LNK2005: _main이(가) 5.obj에 이미 정의되어 있습니다.
+6-1.obj : error LNK2005: _print_array이(가) 5.obj에 이미 정의되어 있습니다.
+6-1.obj : error LNK2005: _print_linked이(가) 5.obj에 이미 정의되어 있습니다.
+6-2.obj : error LNK2005: _array_open이(가) 5.obj에 이미 정의되어 있습니다.
+6-2.obj : error LNK2005: _linked_open이(가) 5.obj에 이미 정의되어 있습니다.
+6-2.obj : error LNK2005: _main이(가) 5.obj에 이미 정의되어 있습니다.
+6-2.obj : error LNK2005: _print_array이(가) 5.obj에 이미 정의되어 있습니다.
+6-2.obj : error LNK2005: _print_linked이(가) 5.obj에 이미 정의되어 있습니다.
+C:\Users\함건욱\Source\Repos\Project16\Debug\Project16.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

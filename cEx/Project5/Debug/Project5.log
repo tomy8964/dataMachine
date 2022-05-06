@@ -1,0 +1,14 @@
+﻿  10-27.cpp
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(15,11): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(15,11): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(15,33): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(15,33): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(29,36): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(29,36): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(31,38): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(31,38): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(32,11): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(33,37): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(33,37): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\함건욱\Source\Repos\Project5\10-27.cpp(34,11): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'float *'입니다.
+  Project5.vcxproj -> C:\Users\함건욱\Source\Repos\Project5\Debug\Project5.exe

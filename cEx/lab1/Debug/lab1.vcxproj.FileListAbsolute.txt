@@ -1,0 +1,2 @@
+C:\Users\함건욱\Source\Repos\lab1\Debug\lab1.exe
+C:\Users\함건욱\Source\Repos\lab1\Debug\lab1.pdb

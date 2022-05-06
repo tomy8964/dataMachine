@@ -1,0 +1,2 @@
+C:\Users\함건욱\Source\Repos\프로그래밍 기초 HW4\x64\Debug\프로그래밍 기초 HW4.exe
+C:\Users\함건욱\Source\Repos\프로그래밍 기초 HW4\x64\Debug\프로그래밍 기초 HW4.pdb

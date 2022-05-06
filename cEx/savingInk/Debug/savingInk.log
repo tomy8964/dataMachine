@@ -1,0 +1,6 @@
+﻿  savingInk.c
+C:\Users\함건욱\Source\Repos\savingInk\savingInk.c(92,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\함건욱\Source\Repos\savingInk\savingInk.c(103,36): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\함건욱\Source\Repos\savingInk\savingInk.c(28,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\savingInk\savingInk.c(33,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  savingInk.vcxproj -> C:\Users\함건욱\Source\Repos\savingInk\Debug\savingInk.exe

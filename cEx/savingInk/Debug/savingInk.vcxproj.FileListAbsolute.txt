@@ -1,0 +1,2 @@
+C:\Users\함건욱\Source\Repos\savingInk\Debug\savingInk.exe
+C:\Users\함건욱\Source\Repos\savingInk\Debug\savingInk.pdb

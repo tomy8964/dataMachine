@@ -1,0 +1,5 @@
+﻿  lab1.c
+C:\Users\함건욱\Source\Repos\lab1\lab1.c(15,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\함건욱\Source\Repos\lab1\lab1.c(32,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\함건욱\Source\Repos\lab1\lab1.c(47,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  lab1.vcxproj -> C:\Users\함건욱\Source\Repos\lab1\Debug\lab1.exe

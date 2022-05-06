@@ -1,0 +1,7 @@
+﻿  subsequences.c
+C:\Users\함건욱\Source\Repos\Distinct Subsequences\subsequences.c(45,25): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Distinct Subsequences\subsequences.c(48,26): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Distinct Subsequences\subsequences.c(71,6): error C2374: 'i': 재정의. 여러 번 초기화했습니다.
+C:\Users\함건욱\Source\Repos\Distinct Subsequences\subsequences.c(42): message : 'i' 선언을 참조하십시오.
+C:\Users\함건욱\Source\Repos\Distinct Subsequences\subsequences.c(35,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\Distinct Subsequences\subsequences.c(38,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

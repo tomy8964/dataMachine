@@ -1,0 +1,15 @@
+﻿12.3-1.obj : error LNK2005: _main이(가) 12.2-4.obj에 이미 정의되어 있습니다.
+12.3-3.obj : error LNK2005: _main이(가) 12.2-4.obj에 이미 정의되어 있습니다.
+12.3-3.obj : error LNK2005: "int d1" (?d1@@3HA)이(가) 12.3-1.obj에 이미 정의되어 있습니다.
+12.3-3.obj : error LNK2005: "int m" (?m@@3HA)이(가) 12.3-1.obj에 이미 정의되어 있습니다.
+12.3-3.obj : error LNK2005: "int y" (?y@@3HA)이(가) 12.3-1.obj에 이미 정의되어 있습니다.
+12.3-3.obj : error LNK2005: "int ps" (?ps@@3HA)이(가) 12.3-1.obj에 이미 정의되어 있습니다.
+12.3-4a.obj : error LNK2005: _main이(가) 12.2-4.obj에 이미 정의되어 있습니다.
+12.3-4b.obj : error LNK2005: _main이(가) 12.2-4.obj에 이미 정의되어 있습니다.
+12.3-4b.obj : error LNK2005: "int fm" (?fm@@3HA)이(가) 12.3-4a.obj에 이미 정의되어 있습니다.
+12.3-4b.obj : error LNK2005: "int fd" (?fd@@3HA)이(가) 12.3-4a.obj에 이미 정의되어 있습니다.
+12.3-4b.obj : error LNK2005: "int fy" (?fy@@3HA)이(가) 12.3-4a.obj에 이미 정의되어 있습니다.
+12.3-4b.obj : error LNK2005: "int sm" (?sm@@3HA)이(가) 12.3-4a.obj에 이미 정의되어 있습니다.
+12.3-4b.obj : error LNK2005: "int sd" (?sd@@3HA)이(가) 12.3-4a.obj에 이미 정의되어 있습니다.
+12.3-4b.obj : error LNK2005: "int sy" (?sy@@3HA)이(가) 12.3-4a.obj에 이미 정의되어 있습니다.
+C:\Users\함건욱\Source\Repos\Homework 4\Debug\Homework 4.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

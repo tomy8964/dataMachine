@@ -1,0 +1,6 @@
+Kim   20   swim
+Lee   45   music
+Youn  44   poker
+Choi  20   swim
+Han   30   poker
+Ko    30   movie

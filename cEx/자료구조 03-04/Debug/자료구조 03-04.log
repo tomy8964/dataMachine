@@ -1,0 +1,4 @@
+﻿  lab1-2.c
+C:\Users\함건욱\Source\Repos\자료구조 03-04\lab1-2.c(8,25): warning C4013: 'queue_empty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\함건욱\Source\Repos\자료구조 03-04\lab1-2.c(27,23): warning C4013: 'queue_full'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  자료구조 03-04.vcxproj -> C:\Users\함건욱\Source\Repos\자료구조 03-04\Debug\자료구조 03-04.exe

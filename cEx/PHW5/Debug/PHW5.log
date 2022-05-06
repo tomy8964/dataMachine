@@ -1,0 +1,4 @@
+﻿  phw5-2.c
+C:\Users\함건욱\Source\Repos\PHW5\phw5-2.c(15,12): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\함건욱\Source\Repos\PHW5\phw5-2.c(179,25): warning C4020: 'sort2': 실제 매개 변수가 너무 많습니다.
+  PHW5.vcxproj -> C:\Users\함건욱\Source\Repos\PHW5\Debug\PHW5.exe

@@ -1,0 +1,13 @@
+﻿  lab4-1.c
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(66,38): warning C4047: '=': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(79,40): warning C4047: '=': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(92,40): warning C4047: '=': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(105,40): warning C4047: '=': 'node *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(195,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(200,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(207,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(214,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(216,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(218,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\Quadtree\lab4-1.c(220,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Quadtree.vcxproj -> C:\Users\함건욱\Source\Repos\Quadtree\Debug\Quadtree.exe

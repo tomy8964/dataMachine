@@ -1,0 +1,2 @@
+C:\Users\함건욱\Source\Repos\SweetNap\Debug\SweetNap.exe
+C:\Users\함건욱\Source\Repos\SweetNap\Debug\SweetNap.pdb

@@ -1,0 +1,35 @@
+﻿  lab1.c
+C:\Users\함건욱\Source\Repos\1007\lab1.c(1,29): error C2061: 구문 오류: 식별자 '화'
+C:\Users\함건욱\Source\Repos\1007\lab1.c(1,29): error C2059: 구문 오류: ';'
+C:\Users\함건욱\Source\Repos\1007\lab1.c(1,32): error C2059: 구문 오류: ','
+C:\Users\함건욱\Source\Repos\1007\lab1.c(1,39): error C2059: 구문 오류: '숫자의 접미사가 잘못되었습니다.'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(345,64): error C2146: 구문 오류: ')'이(가) '_StackCookie' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(345,64): error C2061: 구문 오류: 식별자 '_StackCookie'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(345,64): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(345,76): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(353,18): error C2061: 구문 오류: 식별자 '__security_cookie'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h(353,18): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(275,10): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(287,26): error C2146: 구문 오류: ')'이(가) '_Reserved' 식별자 앞에 없습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(287,26): error C2081: 'uintptr_t': 정식 매개 변수 목록에 있는 이름이 잘못되었습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(287,26): error C2061: 구문 오류: 식별자 '_Reserved'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(287,26): error C2059: 구문 오류: ';'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h(287,35): error C2059: 구문 오류: ')'
+C:\Users\함건욱\Source\Repos\1007\lab1.c(27,30): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(36,38): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(62,44): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(67,40): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(78,36): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(82,30): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(95,50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(141,36): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(185,48): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(190,44): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(203,40): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(207,34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(220,54): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(271,48): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(276,44): warning C4047: '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(289,40): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(293,34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\함건욱\Source\Repos\1007\lab1.c(307,50): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.

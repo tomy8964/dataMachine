@@ -1,0 +1,2 @@
+C:\Users\함건욱\Source\Repos\프로그래밍기초\Debug\프로그래밍기초.exe
+C:\Users\함건욱\Source\Repos\프로그래밍기초\Debug\프로그래밍기초.pdb

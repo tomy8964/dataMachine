@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\함건욱\Source\Repos\11-03\소스.cpp(22,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\11-03\소스.cpp(43,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  11-03.vcxproj -> C:\Users\함건욱\Source\Repos\11-03\Debug\11-03.exe

@@ -1,0 +1,4 @@
+﻿  lab2-1.c
+C:\Users\함건욱\Source\Repos\03-09\lab2-1.c(13,22): warning C4013: 'is_empty'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\함건욱\Source\Repos\03-09\lab2-1.c(29,20): warning C4013: 'is_full'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  03-09.vcxproj -> C:\Users\함건욱\Source\Repos\03-09\Debug\03-09.exe

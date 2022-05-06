@@ -1,0 +1,11 @@
+﻿  hw6-2.c
+C:\Users\함건욱\Source\Repos\11-06 homework\hw6-2.c(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\11-06 homework\hw6-2.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\11-06 homework\hw6-2.c(32,21): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\11-06 homework\hw6-2.c(32,14): warning C4024: 'fopen': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\함건욱\Source\Repos\11-06 homework\hw6-2.c(38,21): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\함건욱\Source\Repos\11-06 homework\hw6-2.c(38,14): warning C4024: 'fopen': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\함건욱\Source\Repos\11-06 homework\hw6-2.c(32,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\11-06 homework\hw6-2.c(38,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\함건욱\Source\Repos\11-06 homework\hw6-2.c(44,9): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  11-06 homework.vcxproj -> C:\Users\함건욱\Source\Repos\11-06 homework\Debug\11-06 homework.exe
