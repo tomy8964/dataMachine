@@ -1,0 +1,52 @@
+/**
+ * program that reads three strings from the keyboard. Although the strings 
+ * are in no particular order, display the string that would be second if they were 
+ * arranged lexicographically.
+ * Author : 201835546 Hamgeonwook
+ * E-mail Address : tomy8964@naver.com
+ * Programming Assignment 2.
+ * Last Change: April 15, 2022.
+ */
+import java.util.Scanner;
+public class p2 {
+
+	public static void main(String[] args) {
+		// 스캐너 객체 keyboard 생성
+		Scanner keyboard = new Scanner(System.in);
+		String sLast;
+		// three words input
+		System.out.println("Please enter a one line question or statement.");
+		// three words save
+		String s = keyboard.nextLine();
+		sLast = s.substring(s.length() - 1);
+		//check if the sentence ends with ?
+		//and has even number of characters
+		if (sLast.equals("?"))
+			{
+				//len(sentence) % 2 == 0:
+				if(s.length()%2==0)
+				{System.out.println("Yes");}
+				else System.out.println("No");
+			}
+		//check if the sentence ends with !
+		if (sLast.equals("!"))
+			{
+				System.out.println("Wow");
+			}
+		else
+			{
+				System.out.println("You always say \""+s+"\"");
+			}
+		keyboard.close();
+	}
+}
+
+
+
+
+
+
+
+
+
+

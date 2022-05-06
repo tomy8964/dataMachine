@@ -1,0 +1,52 @@
+/**
+ * program that reads three strings from the keyboard. Although the strings 
+ * are in no particular order, display the string that would be second if they were 
+ * arranged lexicographically.
+ * Author : 201835546 Hamgeonwook
+ * E-mail Address : tomy8964@naver.com
+ * Programming Assignment 5.
+ * Last Change: April 15, 2022.
+ */
+import java.util.Scanner;
+public class p7 {
+
+	public static void main(String[] args) {
+		int num=0;
+		// 스캐너 객체 keyboard 생성
+		Scanner keyboard = new Scanner(System.in);
+		System.out.println("Enter an integer from 1 to 50:");
+		
+		
+		while(true)
+		{
+			System.out.println("Please enter a score from 0 to 100 or -1 to quit:");
+			int score = keyboard.nextInt();
+			
+			if(score<=-1) break;
+			else count++;
+			
+			if(score>89) a++;
+			else if(score>79) b++;
+			else if(score>69) c++;
+			else if(score>59) d++;
+			else f++;
+		}
+		System.out.println("Total number of grages = "+count);
+		System.out.println("Number of A's = "+a);
+		System.out.println("Number of B's = "+b);
+		System.out.println("Number of C's = "+c);
+		System.out.println("Number of D's = "+d);
+		System.out.println("Number of F's = "+f);
+		keyboard.close();
+	}
+}
+
+
+
+
+
+
+
+
+
+

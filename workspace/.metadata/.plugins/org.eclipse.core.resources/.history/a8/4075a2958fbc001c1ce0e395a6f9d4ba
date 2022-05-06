@@ -1,0 +1,92 @@
+/**
+ * program that reads three strings from the keyboard. Although the strings 
+ * are in no particular order, display the string that would be second if they were 
+ * arranged lexicographically.
+ * Author : 201835546 Hamgeonwook
+ * E-mail Address : tomy8964@naver.com
+ * Programming Assignment 4.
+ * Last Change: April 15, 2022.
+ */
+import java.util.Scanner;
+public class p4 {
+	
+	public static void main(String [ ] args){
+	    System.out.println("please enter a date to be checked");
+		String date="";
+		
+		Scanner keyboard = new Scanner(System.in);
+		  
+		int mm = 00;
+		int dd = 00;
+		int yy = 0000;
+		
+		date = keyboard.nextLine();
+		mm = Integer.parseInt(date.substring(0,2));
+		dd = Integer.parseInt(date.substring(3,5));
+		yy = Integer.parseInt(date.substring(6));
+		
+		System.out.println("date is "+mm+":"+dd+":"+yy);
+		System.out.println("Your date was " + date);
+		
+		boolean isLeapYear=false;
+		if(yy%4==0 && (!(yy%100==0) || yy%400==0))
+		{
+			isLeapYear=true;
+			}
+		if((mm<12) && (mm>1))
+		{
+			if((dd>31 && dd<1))
+			{
+				System.out.println("You have entered an invalid day. Please try again.");
+				
+			}
+		}
+		else
+		{
+			if((mm==9 || mm==4 || mm==6 || mm==11) && (dd>30))
+			{
+			   System.out.println("It is not a valid date.");
+			   System.out.println("September, April, June, and November each have 30 days.");
+			}
+			if((mm==2 && (dd>28)) && isLeapYear==false)
+			{
+			    System.out.println("The reason it is invalid: The day value is greater than 28 in February in a non leap year.");
+			}
+			if((mm==2 && (dd>29)) && isLeapYear==true)
+			{
+			   System.out.println("");
+			  else
+			  {
+			   System.out.println("You have entered a valid date in the correct format.");
+			  }
+			  if (isLeapYear)
+			  {
+			       if((mm==2 && !(dd==29)) && isLeapYear==true)
+			    	   System.out.println(date + " is a valid date.");
+			  }
+			  else System.out.println( date + "is not valid month must have 29 days or less.");
+			  if ((mm ==2) && (dd<=28))
+				  System.out.println( date + "  is a valid date.");
+			}
+		}
+		{
+			System.out.println("It is not a valid date.");
+			System.out.println("The reason it is invaild: The month value is not from 1 to 12");
+		}
+		if((dd>31 && dd<1))
+		{
+			System.out.println("You have entered an invalid day. Please try again.");
+		}
+		  
+	}
+}
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,51 @@
+/**
+ * Write a program to read a list of nonnegative integers and to display the largest 
+ * integer, the smallest integer, and the average of all the integers.
+ * Author : 201835546 Hamgeonwook
+ * E-mail Address : tomy8964@naver.com
+ * Programming Assignment 5.
+ * Last Change: April 15, 2022.
+ */
+import java.util.Scanner;
+public class p5 {
+
+	public static void main(String[] args) {
+		int small=10000,larg=0,count=0,sum=0;
+		double avg=0.0;
+		// 스캐너 객체 keyboard 생성
+		Scanner keyboard = new Scanner(System.in);
+		System.out.println("This program allows you to enter a list of nonnegative integers and to display the largest \r\n"
+				+ "integer, the smallest integer, and the average of all the integers.");
+		
+		
+		while(true)
+		{
+			int num = keyboard.nextInt();
+			
+			if(num<=-1) break;
+			else count++;
+			
+			if(num<small) {
+				small=num;
+			}else larg=num;
+			
+			sum = sum + num;
+	        avg = (sum / count);
+		}
+		System.out.println("For the "+count+" numbers you entered");
+		System.out.println("the largest value = "+larg);
+		System.out.println("the smallest value = "+small);
+		System.out.println("and the average is = "+avg);
+		keyboard.close();
+	}
+}
+
+
+
+
+
+
+
+
+
+

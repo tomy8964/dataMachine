@@ -1,0 +1,27 @@
+/**
+ * program that reads three strings from the keyboard. Although the strings 
+ * are in no particular order, display the string that would be second if they were 
+ * arranged lexicographically.
+ * Author : 201835546 Hamgeonwook
+ * E-mail Address : tomy8964@naver.com
+ * Programming Assignment 5.
+ * Last Change: April 15, 2022.
+ */
+import java.util.Scanner;
+public class p6 {
+
+	public static void main(String[] args) {
+		Scanner keyboard = new Scanner(System.in);
+		keyboard.close();
+	}
+}
+
+
+
+
+
+
+
+
+
+
